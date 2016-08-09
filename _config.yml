@@ -1,0 +1,14 @@
+layout_spectrum: 0.8941998
+color:
+  saturation: 0.04605934
+  lightness: 0.7309344
+  brandStrength: 0.5
+  brandColors:
+    - '#FFFFFF'
+    - '#171310'
+    - '#6F6A64'
+    - '#D74C4F'
+    - '#68B0A4'
+  rhythmicContrast: 0.1337272
+typography_spectrum: 0.07465091
+name: Mike Leighfield
